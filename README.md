@@ -16,7 +16,7 @@
     ./gradlew assembleDebugAndroidTest
     ```
    
-4. Then, run below command:
+4. Then, first of all before running below command, enable 'USB debugging' under Developer options and run below command:
     ```bash
     ./gradlew connectedAndroidTest 
     ```
